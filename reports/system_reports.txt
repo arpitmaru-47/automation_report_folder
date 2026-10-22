@@ -1,0 +1,3 @@
+Generated: 2026-10-22 17:05:57.674485
+Current directory: /mnt/c/Users/Arpit maru/Desktop/git/bash scripting/4_automation_report_folder
+Application environment: not-set
